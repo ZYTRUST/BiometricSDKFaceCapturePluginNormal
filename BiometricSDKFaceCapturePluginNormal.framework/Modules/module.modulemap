@@ -1,6 +1,0 @@
-framework module BiometricSDKFaceCapturePluginNormal {
-  umbrella header "BiometricSDKFaceCapturePluginNormal.h"
-
-  export *
-  module * { export * }
-}
