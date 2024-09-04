@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BiometricSDKFaceCapturePluginNormal",
-            path: "BiometricSDKFaceCapturePluginNormal.xcframework"
+            path: "Sources/BiometricSDKFaceCapturePluginNormal.xcframework"
         )
     ]
 )
